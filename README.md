@@ -16,20 +16,9 @@ flutter pub get
 flutter run  
 ```
 
-## 🗂️ هيكلة مبسطة للمشروع
-
-```text
-lib/
- ├─ main.dart
- ├─ features/chat/
- │   ├─ presentation/chat_page.dart
- │   └─ widgets/message_bubble.dart
- └─ core/
-     └─ utils/time_formatter.dart
-```
-
 ## 📄 الرخصة
 
 MIT – مفتوح المصدر.
 
 ---
+
